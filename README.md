@@ -249,5 +249,6 @@ If you find this template helpful, please give it a ⭐️ on GitHub and conside
 ---
 
 <div align="center">
-  Made with ❤️ by [elhard1](https://github.com/elhard1)
+  Made by <a href="https://github.com/elhard1">elhard1</a>
 </div>
+
